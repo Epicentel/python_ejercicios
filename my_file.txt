@@ -1,0 +1,6 @@
+Mi nombre es Epi
+Mi apellido es Centeno
+Mi edad es 54
+Mi color favorito es azul
+Mi lenguaje preferido es Python
+Aunque también me gusta Java\ Y Swift
